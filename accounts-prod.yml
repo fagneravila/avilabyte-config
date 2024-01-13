@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to AvilaBanK accounts related production  APIs "
+  message: "Welcome to AvilaBanK accounts related prod  APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "aishwarya@avilabank.com"
