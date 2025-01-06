@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to AvilaBanK webhook related prod-APIs "
+  message: "Welcome to AvilaBanK webhook related produção-APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}214519414964ecddf83fd70a7fa34df10ccc1f67ae36ff53335e3f3ded65aa7d60932e86b6bbda0b796ed3e3a4eb9c36"
